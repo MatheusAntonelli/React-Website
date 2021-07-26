@@ -13,7 +13,8 @@ function MainSection() {
             <p>Uma comida leve e saudável para o dia a dia das pessoas.</p>
             <p>Use os botões abaixo para conhecer nosso cardapio virtual e venha se conectar com a UNI!</p>
             <div className='main-btn' >
-                <a href="https://instadelivery.com.br/unisalad" target="_blank">
+                <a href="https://instadelivery.com.br/unisalad" target="_blank" rel="noreferrer">
+               
                 <Button className='btn'
                 buttonStyle='btn-outline'
                 buttonSize='large'
@@ -22,7 +23,7 @@ function MainSection() {
                 </Button>
 
                 </a>
-                <a href="https://api.whatsapp.com/send?phone=5545999776682" target="_blank" >
+                <a href="https://api.whatsapp.com/send?phone=5545999776682" target="_blank" rel="noreferrer">
                     <Button className='btns'
                         buttonStyle='btn-outline'
                         buttonSize='large'
@@ -31,7 +32,7 @@ function MainSection() {
                 </Button>
                 </a>
 
-                <a href="https://www.instagram.com/uni.salad/" target="_blank" >
+                <a href="https://www.instagram.com/uni.salad/" target="_blank" rel="noreferrer">
                     <Button className='btns'
                         buttonStyle='btn-outline'
                         buttonSize='large'
@@ -40,7 +41,7 @@ function MainSection() {
                     </Button>
                 </a>
 
-                <a href="https://www.ifood.com.br/delivery/foz-do-iguacu-pr/uni-salad-jardim-das-laranjeiras/6af16469-4fe9-4297-a143-5d53e4dbc853" target="_blank">
+                <a href="https://www.ifood.com.br/delivery/foz-do-iguacu-pr/uni-salad-jardim-das-laranjeiras/6af16469-4fe9-4297-a143-5d53e4dbc853" target="_blank" rel="noreferrer">
                 <Button className='btn'
                 buttonStyle='btn-outline'
                 buttonSize='large'
